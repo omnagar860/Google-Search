@@ -129,6 +129,7 @@ footer {
   /* margin-top: 153px; */
   position: absolute;
   bottom: 0;
+  width: 100% ;
 }
 .firsrt-row {
   padding: 15px 30px;
